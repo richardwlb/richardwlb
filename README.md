@@ -22,11 +22,7 @@ My name is Richard, I am from Brazil 🇧🇷. Degree in information systems, de
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### You can find me on
-[![Poliana Rufatto](https://img.shields.io/badge/-Poliana%20Rufatto-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/polianarufatto/)](https://www.linkedin.com/in/polianarufatto/)&nbsp;
-[![@polianarufatto](https://img.shields.io/badge/-@polianarufatto-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/polianarufatto/)](https://www.instagram.com/polianarufatto/)&nbsp;
-[![polianarufatto@gmail.com](https://img.shields.io/badge/-polianarufatto@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:polianarufatto@gmail.com)](mailto:polianarufatto@gmail.com)&nbsp;
-[![@polianarufatto](https://img.shields.io/badge/-@polianarufatto-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/polianarufatto)](https://www.twitter.com/polianarufatto)&nbsp;
+
 
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=richardwlb&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&text_color=8b949e&icon_color=8b949e&bg_color=0d1117&theme=dracula">
