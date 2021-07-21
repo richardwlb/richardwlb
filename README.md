@@ -13,8 +13,6 @@ My name is Richard, I am from Brazil 🇧🇷. Degree in information systems, de
 ![Jest](https://img.shields.io/badge/-Jest-000?style=flat&logo=Jest&logoColor=C21325)&nbsp;
 ![Testing Library](https://img.shields.io/badge/-Testing%20Library-000?style=flat&logo=testing-library&logoColor=E33332)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux&logoColor=FCC624)&nbsp;
-![IOS](https://img.shields.io/badge/-IOS-000?style=flat&logo=ios&logoColor=000000)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-000?style=flat&logo=windows&logoColor=0078D6)&nbsp;
 ![Storybook](https://img.shields.io/badge/-Storybook-000?style=flat&logo=Storybook&logoColor=FF4785)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?style=flat&logo=GraphQL&logoColor=E10098)&nbsp;
