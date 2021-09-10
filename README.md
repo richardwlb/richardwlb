@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Richard, I am from Brazil 🇧🇷. Degree in information systems, development and support experience, I have worked in several areas within IT 💻 . I use my acquired experience to build great solutions. Currently working as a front-end developer outsourced to multiple customers. 
+My name is Richard, I am from Brazil 🇧🇷. Degree in information systems, development and support experience, I have worked in several areas within IT 💻 . I use my acquired experience to build great solutions. Currently working as front-end developer outsourced to multiple customers. 
 
 ### Tech Stack
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)&nbsp;
