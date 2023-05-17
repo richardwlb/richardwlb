@@ -23,11 +23,11 @@ I am from Brazil 🇧🇷. Degree in information systems, development and suppor
 
 
 
-<br/>
+<!-- <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=richardwlb&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&text_color=8b949e&icon_color=8b949e&bg_color=0d1117&theme=dracula">
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardwlb&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=8b949e&icon_color=8b949e&bg_color=0d1117&theme=dracula">
-<br/>
+<br/> -->
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=richardwlb&repo=github-visitors-badge&countColorcountColor&countColor=000)
 
